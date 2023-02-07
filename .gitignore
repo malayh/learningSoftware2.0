@@ -1,0 +1,7 @@
+venv/
+__pychache__/*
+*.pyc
+dist/
+build/
+*.egg*
+.ipynb_checkpoints/*
