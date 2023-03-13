@@ -5,3 +5,4 @@ dist/
 build/
 *.egg*
 .ipynb_checkpoints/*
+data/bigdatasets/
